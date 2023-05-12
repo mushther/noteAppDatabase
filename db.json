@@ -117,5 +117,23 @@
       "bgThemeColor": "lightgreen",
       "id": 1
     }
-  ]
+  ],
+    "login":[
+        {"email":"ladan123@gmail.com",
+        "password":"ladan123",
+         "token":"6krtv5"
+        },
+        {"email":"jain123@gmail.com",
+        "password":"jain123",
+         "token":"658rtv5"
+        },
+        {"email":"rain123@gmail.com",
+        "password":"rain123",
+         "token":"6krtgtf"
+        },
+        {"email":"gain123@gmail.com",
+        "password":"gain123",
+         "token":"6krfgt98"
+        }
+    ]
 }
